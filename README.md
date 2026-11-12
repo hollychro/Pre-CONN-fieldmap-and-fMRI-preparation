@@ -1,5 +1,5 @@
 # Pre-CONN-fieldmap-and-fMRI-preparation
-Everything that needs to be done with raw fieldmap and fMRI data from a SIEMENS scanner before inputting into CONN
+Everything that needs to be done with raw fieldmap and fMRI data from a SIEMENS scanner before inputting into CONN. Please bare in mind this also changes preprocessing steps in CONN away from default.
 
 This code was completed on a Windows machine using Ubuntu 22.04.5 LTS (GNU/Linux 6.6.87.2-microsoft-standard-WSL2 x86_64) and is intended to be run through FSL.
 Code for Mac is unclear but using the none-script version line-by-line and making small adjustments should work. You may also need to run dos2unix this_script.sh before starting
